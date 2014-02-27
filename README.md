@@ -11,12 +11,15 @@ To get started, open the index.html file to find instructions and examples. You'
 *Is he Number 1*
 **Work Hard Play Harder**
 **Being_great_isn't going to come easy**
+
  * GOOD
  * BETTER 
  * GREAT
+
  - HARD WORK PAYS OFF
  - JUST DO IT
  - STRIVEFORGREATNESS
+
 1.Combine
 2.Miny Camps
 3.Preseason
