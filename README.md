@@ -25,4 +25,4 @@ To get started, open the index.html file to find instructions and examples. You'
 3. Preseason
 4. NFL
 
-[ESPN](www.espn.com)
+[ESPN](http://www.espn.com)
